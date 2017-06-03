@@ -1,5 +1,3 @@
 # Hangman
 
-Hi guys
-
-That's my first project on Github called Hangman. I hope that I will be able to commit some more interesting ideas soon.
+Projekt ten został wykonany w ramach kursu pana Mirosława Zelenta (Pasja Informatyki) w celu zapoznania się ze składnią oraz obsługą zdarzeń języka JavaScript.
